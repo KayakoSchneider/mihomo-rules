@@ -8,3 +8,4 @@ DOMAIN-SUFFIX,ims.mnc
 DOMAIN-SUFFIX,ims.mcc
 DOMAIN-SUFFIX,epdg.epc
 DOMAIN,dlabel.ctaiot.com
+DOMAIN,dlabelweb.ctaiot.com
